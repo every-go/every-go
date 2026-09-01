@@ -1,0 +1,67 @@
+* {
+   margin: 0em;
+   padding: 0em;
+   line-height: 1.5em;
+}
+
+html {
+   scroll-behavior: smooth;
+}
+
+html,
+body {
+   font-size: 100%;
+   font-family: "Noto Sans", sans-serif;
+   background-color: #bb86fc;
+   text-align: center;
+}
+
+main{
+   margin-top: 2em;
+}
+
+#github-avatar{
+   margin-top: 1em;
+   width: 5em;
+   height: 5em;
+   border-radius: 50%;
+   border: 2px solid #ddd;
+}
+
+body {
+   max-width: 1200px;
+   margin: auto;
+   padding: 0 2em;
+}
+
+#title{
+   font-size: 3.5em;
+   color: #1e1e1e;
+}
+
+#email{
+   margin: 1em;
+}
+
+#experience{
+   margin-top: 1em;
+}
+
+table, thead, tbody, tr, td{
+   border: 2px solid;
+   margin: 1em;
+   padding: 0.5em;
+}
+
+#copyright{
+   font-size: 1em;
+   margin-top: 5em;
+}
+
+#projects{
+   text-align: left;
+}
+
+li{
+   margin-top: 0.5em;
+}
